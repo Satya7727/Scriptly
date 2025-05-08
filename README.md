@@ -1,3 +1,2 @@
-This is my first front end project which I had made with the help of Bootstrap.
-<br>
-Author-Satya Prakash yadav
+# My first project using front-end bootstrap which is an blogging   website.
+
